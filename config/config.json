@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "rachelinkala",
+    "password": null,
+    "database": "board_games_dev",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "rachelinkala",
+    "password": null,
+    "database": "board_games_test",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "rachelinkala",
+    "password": null,
+    "database": "board_games_production",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
